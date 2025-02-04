@@ -4,4 +4,4 @@ gemspec
 
 ruby File.read(".ruby-version").strip
 # gem "rails"
-gem "jekyll"
+gem "github-pages"
